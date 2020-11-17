@@ -1,0 +1,16 @@
+Package: introducer
+Title: Introduce R with fun
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Arthur",
+           family = "Bréant",
+           role = c("aut", "cre"),
+           email = "breant.arthur@gmail.com")
+Description: This package introduce R and how to use package.
+URL: https://github.com/ArthurData/introducer
+BugReports: https://github.com/ArthurData/introducer/issues
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
