@@ -2,17 +2,15 @@
 % Please edit documentation in R/hello_world.R
 \name{hello_world}
 \alias{hello_world}
-\title{hello world
-just print hello world}
+\title{hello world}
 \usage{
 hello_world()
 }
 \value{
-a string with hello world content
+a string with "hello world" content
 }
 \description{
 hello world
-just print hello world
 }
 \examples{
 hello_world()

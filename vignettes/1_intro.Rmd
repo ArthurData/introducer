@@ -1,0 +1,28 @@
+---
+title: "Introduction"
+vignette: >
+  %\VignetteIndexEntry{Introduction}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(introducer)
+```
+
+## How to use a function ? 
+
+After to have load a package, you are now able to use his functions. 
+
+```{r, eval=TRUE}
+hello_world()
+```
+
+_more details to come_

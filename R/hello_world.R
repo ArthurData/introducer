@@ -1,7 +1,7 @@
-#' hello world
-#' just print hello world
+#' @title hello world
 #'
-#' @return a string with hello world content
+#'
+#' @return a string with "hello world" content
 #' @export
 #'
 #' @examples hello_world()

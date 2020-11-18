@@ -13,9 +13,19 @@ knitr::opts_chunk$set(
 )
 ```
 
-# introducer
+# {`introducer`}
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-`ìntroducer` is a package to learn R and how to use package !
+{`introducer`} is a package to learn R and how to use package !
+
+#### Install
+
+```{r, eval=FALSE}
+# install.packages("devtools")
+devtools::install_github("ArthurData/introducer")
+```
+
+
+

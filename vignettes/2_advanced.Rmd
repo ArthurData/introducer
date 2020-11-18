@@ -1,0 +1,20 @@
+---
+title: "Advanced"
+vignette: >
+  %\VignetteIndexEntry{Advanced}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(introducer)
+```
+
+_more details to come_

@@ -1,10 +1,17 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# introducer
+# {`introducer`}
 
 <!-- badges: start -->
 
 <!-- badges: end -->
 
-`ìntroducer` is a package to learn R and how to use package \!
+{`introducer`} is a package to learn R and how to use package \!
+
+#### Install
+
+``` r
+# install.packages("devtools")
+devtools::install_github("ArthurData/introducer")
+```
