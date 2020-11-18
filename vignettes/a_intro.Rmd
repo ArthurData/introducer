@@ -25,4 +25,8 @@ After to have load a package, you are now able to use his functions.
 hello_world()
 ```
 
+```{r, eval=TRUE}
+introduce_yourself("arthur")
+```
+
 _more details to come_

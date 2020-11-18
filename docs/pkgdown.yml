@@ -2,6 +2,6 @@ pandoc: '2.5'
 pkgdown: 1.4.0
 pkgdown_sha: ~
 articles:
-  1_intro: 1_intro.html
-  2_advanced: 2_advanced.html
+  a_intro: a_intro.html
+  b_advanced: b_advanced.html
 
