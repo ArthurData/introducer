@@ -15,3 +15,5 @@
 # install.packages("devtools")
 devtools::install_github("ArthurData/introducer")
 ```
+
+More details : <https://arthurdata.github.io/introducer/>
